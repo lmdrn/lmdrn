@@ -1,5 +1,4 @@
 <h2> Hi, I'm Léa! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Baby developer at <a href="https://42lausanne.ch">42 Lausanne</a></br>Community Manager at <a href="https://42lausanne.ch">42 lausanne</a>
 I use Arch btw </em></p>
 
