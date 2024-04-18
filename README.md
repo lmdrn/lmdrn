@@ -1,6 +1,6 @@
 <h2> Hi, I'm Léa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Baby developer at <a href="https://42lausanne.ch">42 Lausanne</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Community Manager at <a href="https://42lausanne.ch">42 lausanne</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Baby developer at <a href="https://42lausanne.ch">42 Lausanne</a></br>Community Manager at <a href="https://42lausanne.ch">42 lausanne</a>
 I use Arch btw <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
 
