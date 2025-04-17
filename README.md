@@ -6,7 +6,6 @@
 
 <div><p><em>Community Manager at <a href="https://42lausanne.ch">42 lausanne</a></em></p></div>
 </br>
-<div><p><em>I use Arch btw <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="2%" align="center"></em></p></div>
 </br>
 
 [![Linkedin: leamedrano](https://img.shields.io/badge/-leamedrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leamedrano/)](https://www.linkedin.com/in/leamedrano/)
