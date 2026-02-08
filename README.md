@@ -4,7 +4,7 @@
 <div><p><em>Baby developer at <a href="https://42lausanne.ch">42 Lausanne</a></em></p></div>
 </br>
 
-<div><p><em>Community Manager at <a href="https://42lausanne.ch">42 lausanne</a></em></p></div>
+<div><p><em>Pedago and Tech Manager at <a href="https://42lausanne.ch">42 lausanne</a></em></p></div>
 </br>
 </br>
 
